@@ -146,7 +146,7 @@ while True:
 print("done")
 
 #trained_model.model.save("model.h5")
-#trained_model.target_model.save("target_model.h5")    "c:/kullanıcılar/atidem/ " a kaydediliyor çıldırma
+#trained_model.target_model.save("target_model.h5")    
 
 """
 import tensorflow as tf          
